@@ -4,10 +4,11 @@
 # DEMO REPORT LINK 
 file link - https://drive.google.com/file/d/18lMbf0KRLL3dsN6IQrynbhY--lk398k5/view?usp=sharing
 # Objectives 
-1.	% Of male and female employees in the company 
-2.	% Of employees due and not due for promotion 
-3.	On service and retrenchment stats.
-4.	Total employees by years of experiences, distance, education and job level 
-5.	Retrenchment and promotions of employees by department, performance rating 
-6.	Employee satisfaction status 
-7.	Creating bookmarks and Dax measures 
+1.	Creating bookmarks and Dax measures
+2. % Of male and female employees in the company
+3.	% Of employees due and not due for promotion 
+4.	On service and retrenchment stats.
+5.	Total employees by years of experiences, distance, education and job level 
+6.	Retrenchment and promotions of employees by department, performance rating 
+7.	Employee satisfaction status 
+
